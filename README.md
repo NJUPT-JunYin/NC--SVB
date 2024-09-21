@@ -6,25 +6,25 @@ NC²--SVB is a collaborative video recovery system based on network coding desig
 >Developed in Java based on the Android Studio platform, Windows 10.
 
 ### System operating environment：
->The simulation program runs on Android emulators or real mobile devices. To ensure smooth operation, the Android version of the emulator or mobile device should be Android 6.0 or higher.
+>The simulation program runs on Android emulators. For optimal performance, the Android version of the emulator should be Android 6.0 or higher.
 
 ### System operation instructions：
 
 #### Running the Simulation Program on the PC:
 >Setting up the Emulator:
-* In Android Studio on your PC, set up a suitable Android emulator (virtual device) that meets the required specifications (Android 6.0 or higher). This emulator will act as the environment in which the NC2-SVB program runs.
+* In Android Studio on your PC, set up a suitable Android emulator (virtual device) that meets the required specifications (Android 6.0 or higher). This emulator will serve as the environment for running the simulation program.
 
 >Running in the Emulator:
-* Install the NC2-SVB app on the emulator.
+* Install the simulation app on the emulator.
 * Launch the app within the emulator by clicking the app icon.
 
->Executing the NC2-SVB Scheme:
-In the NC2-SVB app, you will find buttons corresponding to different simulation actions and parameter settings.
-Click the appropriate buttons within the app interface to execute the corresponding NC2-SVB schemes.
-The app will display real-time simulation parameters and results on the emulator screen, allowing you to observe the performance of the collaborative recovery process.
+>Executing Different Schemes:
+In the simulation app, you will find buttons corresponding to different simulation actions.
+* Click the appropriate buttons within the app interface to execute the corresponding schemes.
+* The app will display simulation parameters and results on the emulator screen, allowing you to observe the performance of different collaborative recovery process.
 
 >Observing Simulation Results:
-The NC2-SVB app will showcase relevant metrics such as throughput, decoding rate, and delay directly within the app interface. 
+The simulation app will showcase relevant metrics such as throughput, decoding rate, and delay directly within the app interface. 
 
 ## Test results
 [Here]  is a set of our test results to show.
