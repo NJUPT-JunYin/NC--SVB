@@ -12,19 +12,18 @@ NC²--SVB is a collaborative video recovery system based on network coding desig
 
 #### Running the Simulation Program on the PC:
 >Setting up the Emulator:
-* In Android Studio on your PC, set up a suitable Android emulator (virtual device) that meets the required specifications (Android 6.0 or higher). This emulator will serve as the environment for running the simulation program.
+>* In Android Studio on your PC, set up a suitable Android emulator (virtual device) that meets the required specifications (Android 6.0 or higher). This emulator will serve as the environment for running the simulation program.
 
 >Running in the Emulator:
-* Install the simulation app on the emulator.
-* Launch the app within the emulator by clicking the app icon.
+>* Install the simulation app on the emulator.
+>* Launch the app within the emulator by clicking its icon.
 
->Executing Different Schemes:
-In the simulation app, you will find buttons corresponding to different simulation actions.
-* Click the appropriate buttons within the app interface to execute the corresponding schemes.
-* The app will display simulation parameters and results on the emulator screen, allowing you to observe the performance of different collaborative recovery process.
+>Executing Simulation of Different Approaches:
+>* Click the relevant buttons within the app interface to execute corresponding approaches.
+>* The app will display simulation parameters and results on the emulator screen, allowing you to observe the performance of different collaborative recovery process.
 
 >Observing Simulation Results:
-The simulation app will showcase relevant metrics such as throughput, decoding rate, and delay directly within the app interface. 
+>* The simulation app will showcase relevant metrics such as throughput, decoding rate, and delay directly within the app interface. 
 
 ## Test results
 [Here]  is a set of our test results to show.
