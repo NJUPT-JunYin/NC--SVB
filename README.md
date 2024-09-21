@@ -24,6 +24,3 @@ NC²--SVB is a collaborative video recovery system based on network coding desig
 
 >Observing Simulation Results:
 >* The simulation app will showcase relevant metrics such as throughput, decoding rate, and delay directly within the app interface. 
-
-## Test results
-[Here]  is a set of our test results to show.
