@@ -6,7 +6,7 @@ NC²--SVB is a collaborative video recovery system based on network coding desig
 >Developed in Java based on the Android Studio platform, Windows 10.
 
 ### System operating environment：
->The simulation program runs on Android emulators. For optimal performance, the Android version of the emulator should be Android 6.0 or higher.
+>The simulation program runs on Android emulators or Android device. For optimal performance, the Android version should be Android 6.0 or higher.
 
 ### System operation instructions：
 
